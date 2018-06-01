@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
                         init();
                     } else {
                         Toast.makeText(MainActivity.this,
-                                "Go to settings and enable permissions",
+                                "Go to settings and enable all permissions",
                                 Toast.LENGTH_LONG).show();
                     }
                 }
